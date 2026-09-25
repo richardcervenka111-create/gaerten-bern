@@ -4,7 +4,7 @@ Wer in Bern keinen Balkon hat und gärtnern will, muss wissen, wo die Areale sin
 
 Live: **https://richardcervenka111-create.github.io/gaerten-bern/**
 
-Drei Sprachen (DE/EN/SK), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
+Zwei Sprachen (DE/EN), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
 
 ## Daten
 
